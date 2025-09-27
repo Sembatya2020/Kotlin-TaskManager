@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="363b72df-ed0d-4ab8-a883-757344ba687c" name="Changes" comment="first-project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="363b72df-ed0d-4ab8-a883-757344ba687c" name="Changes" comment="final project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +83,7 @@
       <workItem from="1758800003928" duration="5124000" />
       <workItem from="1758805227083" duration="5162000" />
       <workItem from="1758973419000" duration="2603000" />
-      <workItem from="1758994199361" duration="1269000" />
+      <workItem from="1758994199361" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -152,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758810101433</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="final project">
+      <option name="closed" value="true" />
+      <created>1758995519964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758995519964</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +167,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="first-project2" />
     <MESSAGE value="first-project" />
-    <option name="LAST_COMMIT_MESSAGE" value="first-project" />
+    <MESSAGE value="final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project" />
   </component>
 </project>
